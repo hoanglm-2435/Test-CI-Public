@@ -13,6 +13,7 @@ jobs:
   - redis:alpine
   script:
   - echo Hello
+  - exit 1 
 
 - name: Sleep
   stage: Build
