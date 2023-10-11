@@ -55,4 +55,4 @@ jobs:
   script:
   - sleep 10
   - echo Byeeeeeeee!
-  - echo yeahhhhh!
+  - echo yeahhhhhhhhhhhhhh!
